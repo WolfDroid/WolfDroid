@@ -8,7 +8,7 @@
 
 Hey, 👋🏻
 
-I am a Fine Arts, Technologies, and Game Industries Enthusiast form Indonesia. Currently, constructing a startup called "Enveriesage Studios" that purposely focused on Technologies Utilization.
+I am a Fine Arts, Technologies, and Game Industries Enthusiast form Indonesia. Constructing a startup called "Enveriesage Studios" that purposely focused on Technologies Utilization.
 
 #### Github Stats
 <table border= "0">
