@@ -10,26 +10,6 @@ Hey, 👋🏻
 
 I am a Fine Arts, Technologies, and Game Industries Enthusiast form Indonesia. Currently, constructing a startup called "Enveriesage Studios" that purposely focused on Technologies Utilization.
 
-#### Backgrounds
-<table>
-  <tr align="center" border= "0">
-    <td>
-      :mortar_board: Bachelor of Computer Engineering
-    </td>
-    <td>
-      :scroll: Graduate with Honor
-    </td>
-    <td>
-      :man_scientist: Computer Networks Laboratory Assistant
-    </td>
-    <td>
-      :open_book: Physiognomy using AAM and CNN
-    </td>
-  </tr>
-  <tr align="center">
-  </tr>
-</table>
-
 #### Github Stats
 <table border= "0">
   <tr align="center">
