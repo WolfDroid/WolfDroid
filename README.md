@@ -1,17 +1,16 @@
-![1554653500190](https://user-images.githubusercontent.com/36785493/126616662-a7a449e4-9bbe-472d-9261-4cfa0b289236.jpg)
+![Enveriesage Logo](https://user-images.githubusercontent.com/36785493/126616662-a7a449e4-9bbe-472d-9261-4cfa0b289236.jpg)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=WolfDroid&color=6A5ACD)
 ![Email](https://img.shields.io/static/v1?label=Email&message=wolfdroid99@gmail.com&color=6A5ACD&logo=gmail)
 ![GitHub followers](https://img.shields.io/github/followers/WolfDroid?label=Followers&style=flat&logo=github&color=6A5ACD)
 
-Hey 👋🏻
+Hey, 👋🏻
 
-I am CEO and Co-Founder of marqant digital and Software Engineer from Austria 🇦🇹. I am interested in, write about, and develop (open source) software solutions using JavaScript, TypeScript, ReactJS, and NodeJS.
+I am a Fine Arts, Technologies, and Game Industries Enthusiast form Indonesia. Currently, constructing a startup called "Enveriesage Studios" that purposely focused on Technologies Utilization.
 
-You can see what I am currently up to on natterstefan.me.
 #### Backgrounds
 <table>
-  <tr align="center">
+  <tr align="center" border= "0">
     <td>
       :mortar_board: Bachelor of Computer Engineering
     </td>
@@ -29,19 +28,18 @@ You can see what I am currently up to on natterstefan.me.
   </tr>
 </table>
 
-#### Find me on
-
-<!--
-**WolfDroid/WolfDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Github Stats
+<table border= "0">
+  <tr align="center">
+    <td>
+      <a href="https://github.com/WolfDroid">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WolfDroid&layout=compact&theme=dark&border_color=FFFFFF" height="200px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/WolfDroid">
+        <img src = "https://github-readme-stats.vercel.app/api?username=WolfDroid&show_icons=true&theme=dark&border_color=FFFFFF&icon_color=CC00FF" height="200px"/>
+      </a>
+    </td>
+  </tr>
+</table>
