@@ -1,4 +1,4 @@
-<h1 align="center">WolfDroid's Profile</h1>
+<h1 align="center">Profile</h1>
 
 #### Backgrounds
 <table>
