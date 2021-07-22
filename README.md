@@ -7,9 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/WolfDroid?label=Followers&style=flat&logo=github&color=6A5ACD)
 
 #### Introduction
-Hey, 👋🏻
-
-I am a Fine Arts, Technologies, and Game Industries Enthusiast form Indonesia. Constructing a startup called "Enveriesage Studios" that purposely focused on Technologies Utilization.
+A Fine Arts, Technologies, and Game Industries Enthusiast form Indonesia. Constructing a startup called "Enveriesage Studios" that purposely focused on Technologies utilization. Experienced with various programming languages and framework. DM for more information.
 
 #### Github Stats
 <table border= "0">
