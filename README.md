@@ -16,12 +16,12 @@ A fine arts, technologies, and game industries enthusiast. Constructing a startu
   <tr align="center">
     <td>
       <a href="https://github.com/WolfDroid">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WolfDroid&layout=compact&theme=dark&border_color=FFFFFF" height="200px"/>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdroid&layout=compact&theme=dark&border_color=FFFFFF" height="200px"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/WolfDroid">
-        <img src = "https://github-readme-stats.vercel.app/api?username=WolfDroid&show_icons=true&theme=dark&border_color=FFFFFF&icon_color=CC00FF" height="200px"/>
+        <img src = "https://github-readme-stats.vercel.app/api?username=wolfdroid&show_icons=true&theme=dark&border_color=FFFFFF&icon_color=CC00FF" height="200px"/>
       </a>
     </td>
   </tr>
