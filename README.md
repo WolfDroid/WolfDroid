@@ -33,3 +33,8 @@ A fine arts, technologies, and game industries enthusiast. Constructing a resear
 [![ResearchGate Account](https://img.shields.io/static/v1?label=ResearchGate&message=Im-Rafid&color=76EEC6&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Im-Rafid)
 
 #### Find me on
+[![Microsoft Azure Learn Account](https://img.shields.io/static/v1?label=Azure&message=Im-Rafid&color=blue&style=for-the-badge&logo=microsoftazure&logoColor=blue)](https://docs.microsoft.com/en-us/users/wolfdroid99/)
+[![Duolingo Account](https://img.shields.io/static/v1?label=Duolingo&message=Eltariel-Reiss&color=green&style=for-the-badge&logo=duolingo&logoColor=green)](https://www.duolingo.com/profile/WolfDroid_99)
+[![Sololearn Account](https://img.shields.io/static/v1?label=Sololearn&message=WolfDroid&color=orange&style=for-the-badge&logo=sololearn&logoColor=orange)](https://www.sololearn.com/profile/4805167)
+
+
