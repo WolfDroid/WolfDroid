@@ -27,7 +27,7 @@ A fine arts, technologies, and game industries enthusiast. Constructing a resear
   </tr>
 </table>
 
-#### Others portfolio Portals
+#### Other portfolios
 [![HackerRank Account](https://img.shields.io/static/v1?label=HackerRank&message=wolfdroid99&color=00ab6b&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/WolfDroid99)
 [![ArtStation Account](https://img.shields.io/static/v1?label=ArtStation&message=wolfdroid&color=00ecff&style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/wolfdroid)
 [![ResearchGate Account](https://img.shields.io/static/v1?label=ResearchGate&message=Im-Rafid&color=76EEC6&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Im-Rafid)
