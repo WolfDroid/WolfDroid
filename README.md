@@ -36,5 +36,6 @@ A fine arts, technologies, and game industries enthusiast. Constructing a resear
 [![Microsoft Azure Learn Account](https://img.shields.io/static/v1?label=Azure&message=Im-Rafid&color=blue&style=for-the-badge&logo=microsoftazure&logoColor=blue)](https://docs.microsoft.com/en-us/users/wolfdroid99/)
 [![Duolingo Account](https://img.shields.io/static/v1?label=Duolingo&message=Eltariel-Reiss&color=green&style=for-the-badge&logo=duolingo&logoColor=green)](https://www.duolingo.com/profile/WolfDroid_99)
 [![Sololearn Account](https://img.shields.io/static/v1?label=Sololearn&message=WolfDroid&color=orange&style=for-the-badge&logo=sololearn&logoColor=orange)](https://www.sololearn.com/profile/4805167)
+[![Qwiklab Account](https://img.shields.io/static/v1?label=Qwiklab&message=WolfDroid&color=yellow&style=for-the-badge&logo=qwiklabs&logoColor=yellow)](https://google.qwiklabs.com/public_profiles/8d2ed06d-c1ed-4f3c-bf3a-3d883a226af0)
 
 
