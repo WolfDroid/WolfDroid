@@ -8,7 +8,7 @@
 
 #### Introduction
 <p align="justify">
-A fine arts, technologies, and game industries enthusiast. Constructing a research and creative lab called "Enveriesage Studio" that purposely focused on Technologies utilization. Experienced with various programming languages and framework. Feel free to contact for more information.
+A fine arts, technologies, and game industries enthusiast. Constructing a research and creative lab called "Enveriesage Studios" that purposely focused on Technologies utilization. Experienced with various programming languages and framework. Feel free to contact for more information.
 </p>
 
 #### Github Stats
